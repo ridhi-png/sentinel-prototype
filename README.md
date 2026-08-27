@@ -1,5 +1,7 @@
 # Sentinel — a live oversight instrument for AI deployments
 
+LINK: https://gregarious-macaron-e48e06.netlify.app/
+
 **Team CtrlAI** · Ridhi, IIT Jodhpur · Accenture Innovation Challenge 2026 · Problem Statement 1 — ControlPlane.ai · **Round 2 submission**
 
 Sentinel is a working prototype of a real-time layer that sits between any AI model and its users, scoring every response across three lanes — **Performance**, **Cost**, and **Responsibility** — and routing it through a profile-aware, four-tier decision (Allow / Auto-edit / Flag / Block) instead of waiting for an after-the-fact audit to catch a bad response.
